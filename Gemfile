@@ -10,6 +10,7 @@ gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'rb-readline'
 gem 'bootstrap-sass'
+gem 'bcrypt',       '3.1.12'
 #gem 'pry-coolline'
 
 group :development, :test do
